@@ -333,5 +333,9 @@
   {
     "title": "git rev-list --count master",
     "description": "count the number of commits on a branch"
+  },
+  {
+    "title": "git clone",
+    "description": "This command clones the repo you want to work in to your computer and/or selected folder via the terminal."
   }
 ]
